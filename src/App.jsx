@@ -2,7 +2,7 @@ import React from "react";
 import Inicio from "./pages/Inicio";
 import Servicios from "./pages/Servicios";
 import Navbar from "./pages/Navbar";
-import Productos from "./pages/productos";
+import Productos from "./pages/Productos";
 import Quienes_somos from "./pages/Quienes_somos";
 import ProductoDetalle from "./pages/ProductoDetalle";
 import Pagar from "./pages/Pagar";
